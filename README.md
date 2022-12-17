@@ -1,11 +1,3 @@
-<style>
-table{
-    width:100%;
-}
-td {
-    width: 50%
-}
-</style>
 <link type="style/css" href="style.css">
 <h1 align="center"> Привет, я Василий 👋</h1>
 <h3 align="center" style="text-align: center;">Студент направления ISEC <img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="32" align="center"/>
