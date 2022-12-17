@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @ohmwraith
+<h1 align="center"> Привет, я Василий
+<img src="https://github.com/ohmwraith/ohmwraith/images/hi.gif" height="32"/></h1>
+<h3 align="center" style="text-align: center;">Студент направления ISEC <img src="https://github.com/ohmwraith/ohmwraith/images/isec.gif" height="32" align="center"/>
+</h3>
 
 <!---
 ohmwraith/ohmwraith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
