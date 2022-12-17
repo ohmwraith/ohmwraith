@@ -5,12 +5,13 @@ table{
 td {
     width: 50%
 }
-</style>    
+</style>
+<link type="style/css" href="style.css">
 <h1 align="center"> Привет, я Василий 👋</h1>
 <h3 align="center" style="text-align: center;">Студент направления ISEC <img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="32" align="center"/>
 </h3>
 <img src="images/banner.png" height="100%" align="center"/>
-<table class='table-stats'>
+<table class='table-stats' style>
     <thead>
         <tr>
             <th colspan="2">Проекты</th>
