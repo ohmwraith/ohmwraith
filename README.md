@@ -54,7 +54,7 @@
         </tr>
     </tbody>
 </table>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=200&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=140&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
 
 
 
