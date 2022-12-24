@@ -3,6 +3,8 @@
 <h3 align="center" style="text-align: center;">Студент направления ISEC <img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="50" align="center"/>
 </h3>
 <img src="images/banner.png" height="100%" align="center"/>
+
+
 <table class='table-stats' style>
     <thead>
         <tr>
@@ -18,7 +20,7 @@
             </td>
             <td>
                 <a href="https://github.com/ohmwraith/gate-model">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=gate-model&theme=github_dark&show_owner=False" />
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False" />
                 </a>
             </td>
         </tr>
@@ -26,6 +28,11 @@
 </table>
 
 
+## Технологии
+![MySQL, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=py,mysql,php,js,html,css&theme=dark)
+
+## Инструменты
+![VSCode, Photoshop, After Effects, Premiere, Audition, Blender](https://skillicons.dev/icons?i=vscode,github,ps,ae,pr,au,blender&theme=dark)
 <table class='table-stats'>
     <thead>
         <tr>
@@ -47,6 +54,7 @@
         </tr>
     </tbody>
 </table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=200&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
 
 
 
