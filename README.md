@@ -1,31 +1,19 @@
-<link type="style/css" href="style.css">
-<h1 align="center"> Привет, я Василий 👋</h1>
-<h3 align="center" style="text-align: center;">Студент направления ISEC <img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="50" align="center"/>
-</h3>
 <img src="images/banner.png" height="100%" align="center"/>
 
+# Привет, я Василий
+**Я - начинающий специалист ISEC.** Специализируюсь на разработке сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы. В текущий момент я изучаю приемы OSINT, слежу за инцидентами в мире информационной безопсности. В моих планах на ближайшее время: изучение компьютерных сетей и технологии Docker. В сфере ИБ я стремлюсь изучить приемы нападения и защиты, чтобы в последствии применять эти навыки для разработки и обслуживания защитного ПО. Как сказал один философ:
+> "Знай своего врага..."
+> 
+> - Сунь-Цзы
+<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="70" align="center"/></p>
 
-<table class='table-stats' style>
-    <thead>
-        <tr>
-            <th colspan="2">Проекты</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/ohmwraith/steam-guard-bot">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=steam-guard-bot&theme=github_dark&=dada" />
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/ohmwraith/gate-model">
-                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False" />
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+### Работа в команде
+У меня есть опыт участия в нескольких командных проектах, хакатонах и CTF.
+Я считаю что ключевыми факторами успешной работы в команде является уважение к окружающим, умение выслушывать и делиться идеями.
+
+## Мои проекты
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=steam-guard-bot&theme=github_dark)](https://github.com/ohmwraith/steam-guard-bot)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/r5-team-tracker)
 
 
 ## Технологии
@@ -33,31 +21,12 @@
 
 ## Инструменты
 ![VSCode, Photoshop, After Effects, Premiere, Audition, Blender](https://skillicons.dev/icons?i=vscode,github,ps,ae,pr,au,blender&theme=dark)
-<table class='table-stats'>
-    <thead>
-        <tr>
-            <th colspan="2">Статистика</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <a href="https://github.com/dallings/dallings">
-                <img align="center" src="https://github-readme-stats.vercel.app/api?username=ohmwraith&theme=github_dark"/>
-            </a>
-            </td>
-            <td>
-                <a href="https://github.com/dallings/dallings">
-                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohmwraith&theme=github_dark&layout=compact" height="100%"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=140&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
 
 
+## Статистика
+![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmwraith&theme=github_dark&layout=compact)
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=140&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
 <!---
 ohmwraith/ohmwraith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
