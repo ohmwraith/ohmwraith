@@ -11,6 +11,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=steam-guard-bot&theme=github_dark)](https://github.com/ohmwraith/steam-guard-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/r5-team-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=ohmshop-php&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/ohmshop-php)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/DESCrypter)
 
 ## Технологии
 ![MySQL, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=py,mysql,php,js,html,css&theme=dark)
