@@ -5,13 +5,14 @@
 <h3 align="center">Я - начинающий специалист ISEC.</h2>
 <p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="70" align="center"/></p>
 
-Специализируюсь на разработке сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы. В текущий момент я изучаю приемы OSINT и слежу за инцидентами в мире информационной безопсности.
+Занимаюсь разработкой сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы. В текущий момент я изучаю фаззинг, SAST и сети.
 
 ## Мои проекты
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/DESCrypter)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=steam-guard-bot&theme=github_dark)](https://github.com/ohmwraith/steam-guard-bot)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/r5-team-tracker)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=ohmshop-php&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/ohmshop-php)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/DESCrypter)
+
 
 ## Технологии
 ![MySQL, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=py,mysql,php,js,html,css&theme=dark)
