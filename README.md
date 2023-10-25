@@ -5,7 +5,7 @@
 <h3 align="center">Я - начинающий специалист ISEC.</h2>
 <p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="70" align="center"/></p>
 
-Занимаюсь разработкой сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы. В текущий момент я изучаю компьютерные сети.
+Занимаюсь разработкой сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы.
 
 ## Мои проекты
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/DESCrypter)
