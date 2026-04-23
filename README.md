@@ -1,31 +1,66 @@
-<img src="images/banner.png" height="100%" align="center"/>
+<img src="images/banner.png" width="100%" />
 
-# Привет, я Василий <img src="https://user-images.githubusercontent.com/44874495/209508774-dd98bc31-d696-48b5-8b84-ff57ced602d7.gif" height="40" align="center"/>
+# Hi, I'm Vasiliy 👋
 
-<h3 align="center">Я - начинающий специалист ISEC.</h2>
-<p align="center" style="text-align: center;"><img src="https://raw.githubusercontent.com/ohmwraith/ohmwraith/main/images/isec.gif" height="70" align="center"/></p>
+<h3 align="center">Security • Networking • Self-hosted Infrastructure</h3>
 
-Занимаюсь разработкой сайтов и приложений уже **4 года**. Мне нравится искать необычное применение своим навыкам и автоматизировать процессы.
+---
 
-## Мои проекты
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/DESCrypter)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=steam-guard-bot&theme=github_dark)](https://github.com/ohmwraith/steam-guard-bot)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=r5-team-tracker&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/r5-team-tracker)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=ohmshop-php&theme=github_dark&show_owner=False)](https://github.com/ohmwraith/ohmshop-php)
+I'm focused on **information security, networking, and infrastructure**.
 
+Currently exploring automation and building my own self-hosted environment.
 
-## Технологии
-![MySQL, Python, JavaScript, HTML, CSS](https://skillicons.dev/icons?i=py,mysql,php,js,html,css&theme=dark)
+---
 
-## Инструменты
-![VSCode, Photoshop, After Effects, Premiere, Audition, Blender](https://skillicons.dev/icons?i=vscode,github,ps,ae,pr,au,blender&theme=dark)
+## 🧠 Current focus
 
+- Developing and maintaining a personal infrastructure
+- Automation and scripting
+- Networking and traffic management
+- Containerized services (Docker / Compose)
 
-## Статистика
-![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmwraith&theme=github_dark&layout=compact)
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=140&section=footer&text=&fontSize=60&fontColor=ffffff&fontAlign=70&fontAlignY=80" />
-<!---
-ohmwraith/ohmwraith is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚧 Exploring
+
+- CI/CD for self-hosted services  
+- Kubernetes  
+- Expanding personal infrastructure  
+
+---
+
+## ⚙️ Stack
+
+![Tech](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,python,bash&theme=dark)
+
+---
+
+## 🧩 Projects
+
+[![DESCrypter](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=DESCrypter&theme=github_dark&show_owner=false)](https://github.com/ohmwraith/DESCrypter)
+[![ohmshop-php](https://github-readme-stats.vercel.app/api/pin/?username=ohmwraith&repo=ohmshop-php&theme=github_dark)](https://github.com/ohmwraith/ohmshop-php)
+
+---
+
+## 🎯 Experience
+
+- CTF and cyber battles
+
+---
+
+## 🎮 Interests
+
+- Game servers and modifications (Minecraft/ Source / Half-Life)
+
+## 📝 Notes
+
+Most of my current work is focused on infrastructure and self-hosted systems,  
+so I don’t publish much code publicly.
+
+---
+
+## 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmwraith&theme=github_dark&layout=compact)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1191ea&height=140&section=footer" />
