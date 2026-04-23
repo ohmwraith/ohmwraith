@@ -6,8 +6,6 @@
 
 ---
 
-I'm focused on **information security, networking, and infrastructure**.
-
 Currently exploring automation and building my own self-hosted environment.
 
 ---
