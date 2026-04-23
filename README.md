@@ -1,6 +1,6 @@
 <img src="images/banner.png" width="100%" />
 
-# Hi, I'm Vasiliy 👋
+# Hi, I'm Vasilii 👋
 
 <h3 align="center">Security • Networking • Self-hosted Infrastructure</h3>
 
